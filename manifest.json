@@ -1,0 +1,25 @@
+{
+  "name": "Mimos Express - Gestão",
+  "short_name": "Mimos Express",
+  "description": "Painel de Vendas, Estoque, Reposição e Financeiro da Mimos Express",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#121212",
+  "theme_color": "#d93838",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/6y45W9j/Logo-Mimos-Express-sem-fundo-2-2.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://i.ibb.co/6y45W9j/Logo-Mimos-Express-sem-fundo-2-2.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
